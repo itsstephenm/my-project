@@ -17,12 +17,12 @@ const Aboout = () => {
              im getting into my third year as a Computer Scientist.  
           </p>
           <p className='py-2 text-gray-600'>
-            Where i look forward to opportunies as an intern or an attachment program to gain better experience in the field.
+            Looking forward to opportunies as an intern to gain better experience in the field.
           </p>
-          <p className='py-2 text-gray-600'>
-            As you can see, judging from my own site i have the ability to grow as a front-end developer given 
+          {/* <p className='py-2 text-gray-600'>
+            I have the ability to grow as a front-end developer given 
              a proper opportunity to work with brilliant minds alike in the field. As the page is very responsive and works on multiple platforms.
-          </p>
+          </p> */}
             <Link href={'/#projects'}>
             <p className='py-2 underline cursor-pointer  text-[#5651e5]'>Check out some of my projects </p>
             </Link>
