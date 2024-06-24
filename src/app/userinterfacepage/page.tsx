@@ -20,10 +20,10 @@ const page = () => {
            <div className='w-screen h-[30vh] lg:h-[40vh] relative'>
         <div className='absolute top-0 left-0 w-full h-[30vh] lg:h-[40vh] bg-black/80 z-10'>
             <Image className='absolute z-1 opacity-30' layout='fill' objectFit='cover' src={Weather_Forecast_Mobile_App} alt="/" />
-            <div className=' ml-4 absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[0%] translate-y-[200%] text-white z-10 p-2'>
-                {/* <h2>UX/UI And Graphics</h2>
-                <h3>TailwindCss | NextJs | Firebase</h3> */}
-            </div>
+            {/* <div className=' ml-4 absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[0%] translate-y-[200%] text-white z-10 p-2'>
+                <h2>UX/UI And Graphics</h2>
+                <h3>TailwindCss | NextJs | Firebase</h3>
+            </div> */}
         </div>
       </div>
 
