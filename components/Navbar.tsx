@@ -101,10 +101,10 @@ window.addEventListener('scroll', handleShadow)
                     </Link>
                   </ul>
                 </div>
-                <div className='pt-40 tracking-wide uppercase text-[#5651e5]'>
+                <div className='pt-10 tracking-wide uppercase text-[#5651e5]'>
                       Let`s Connect
                 </div>
-                <div className='text-[#5651e5] flex items-center justify-between mt-16 w-full sm:w-[80%]'>
+                <div className='text-[#5651e5] flex items-center justify-between mt-6 w-full sm:w-[80%]'>
                   <Link target="_blank" href='https://www.linkedin.com/in/stephen-muregwi-b6170830a/'>
                   <div className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-500 '>
                   <AiFillLinkedin />
