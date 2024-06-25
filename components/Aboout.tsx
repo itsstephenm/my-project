@@ -13,7 +13,7 @@ const Aboout = () => {
           <h2 className='py-4'> Who I Am</h2>
           <p>A little More About me </p>
           <p className='py-2 text-gray-600'>
-            Name is Stephen Muregwi and i am currently enrolled at the National University of Science and Technology in Zimbabwe, Bulawayo. Currently persuing a degree in Computer Science, just finished my second year and
+            Name is Stephen Muregwi and i am currently enrolled at the National University of Science and Technology in Bulawayo, Zimbabwe. Currently persuing a degree in Computer Science, just finished my second year and
              im getting into my third year as a Computer Scientist.  
           </p>
           <p className='py-2 text-gray-600'>
@@ -31,8 +31,8 @@ const Aboout = () => {
         <Image className='rounded-xl' src={About2.src} alt="" width={2000} height={2000} />
       </div>
       <p className=' text-gray-600 pt-28'>
-        Im not limited to web developing only as i am able to diagnose and resolve computer issues, network or printer problems, email, internet and local area network access points.
-	      Also capable of installing different operations systems on computer devices
+        I`m not limited to web developing only as i am able to diagnose and resolve computer issues, network or printer problems, email, internet and local area network access points.
+	      Also capable of installing different operating systems on computer devices
         i.e. windows 7/8/10/11.
         I possess good designing skills for suitable application user interfaces/user experience and graphic designs.   
         <Link href='/#Contactsection' className='text-[#5651e5] underline'>Get-In-touch</Link> 
