@@ -31,7 +31,7 @@ const Aboout = () => {
         <Image className='rounded-xl' src={About2.src} alt="" width={2000} height={2000} />
       </div>
       <p className=' text-gray-600 pt-28'>
-        I`m not limited to web developing only as i am able to diagnose and resolve computer issues, network or printer problems, email, internet and local area network access points.
+        I`m not limited to software development only as i am able to diagnose and resolve computer issues, network or printer problems, email, internet and local area network access points.
 	      Also capable of installing different operating systems on computer devices
         i.e. windows 7/8/10/11.
         I possess good designing skills for suitable application user interfaces/user experience and graphic designs.   

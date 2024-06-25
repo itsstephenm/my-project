@@ -19,8 +19,8 @@ const Main = () => {
               </h1>
               <p className='py-4 mx-auto text-gray-600 max-w-[70%] '>
                 Occasional graphics designing, 
-                creating beautiful and proffesional digital experiences. 
-                Currently im focused on building responsive web applications, improving my 
+                creating beautiful and profesional digital experiences. 
+                Currently i`m focused on building responsive web applications, improving my 
                 graphics designing skills whilst working on my mobile Application development skill and back-end technologies.  
               </p>
               <div className='text-[#5651e5] flex items-center justify-between max-w-[330px] m-auto py-4'>
