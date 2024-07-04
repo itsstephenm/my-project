@@ -7,10 +7,11 @@ import {AiOutlineMenu, AiOutlineClose, AiOutlineMail, AiFillGithub} from 'react-
 import { AiFillLinkedin } from "react-icons/ai";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Mode from '../src/app/ModeToggleButton/Mode'
-
+import { HiRefresh } from 'react-icons/hi';
 
 
 const Navbar = () => {
+  
   const [nav, setNav] = useState(false)
   const [shadow, setShadow] = useState(false)
   const [darkMode, setDarkMode] = useState(false);

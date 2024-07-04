@@ -4,10 +4,10 @@ import {AiFillLinkedin} from 'react-icons/ai';
 import { AiOutlineMail, AiFillGithub} from 'react-icons/ai';
 import { BsFillPersonLinesFill } from "react-icons/bs";
 
-
 const Main = () => {
   return (
-    <div id='home' className='border-b border-gray-300 w-full h-screen text-center'>
+   
+   <div id='home' className='border-b border-gray-300 w-full h-screen text-center'>
         <div className='max-w-[1240px] w-full h-full mx-auto pt-24 flex justify-center items-center'>
             <div>
               <p className='uppercase text-sm tracking-wide'>Team Work Makes The Dream Work</p>
