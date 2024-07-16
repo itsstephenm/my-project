@@ -13,6 +13,7 @@ import Saloon_Template from '../../../public/assets/UIandGRAPHICS/Saloon Templat
 import Design1 from '../../../public/assets/UIandGRAPHICS/Design1.png'
 import Graphic_Designer_Poster from '../../../public/assets/UIandGRAPHICS/Graphic Designer Poster.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
+import Carousel from '../../../components/Carousel';
 
 const page = () => {
   return (
@@ -56,8 +57,6 @@ const page = () => {
         </div>
         </div>
 
-        
-
         <div className='rounded-lg shadow shadow-gray-700 mx-8 p-4 grid md:grid-cols-6 sm:grid-cols-3 gap-2 pt-8'>
             <div className='container shadow-lg shadow-gray-700 rounded-lg'>
             <Image className='rounded-lg hover:scale-110 ease-in duration-300' src={Page1.src} alt="" width={400} height={100} />
@@ -92,6 +91,8 @@ const page = () => {
               <Image className='rounded-lg shadow-lg shadow-gray-700 hover:scale-105 ease-in duration-300' src={Graphic_Designer_Poster} alt="/"width={600} height={400} />
           </div>
       </div>
+        
+
       <div className='flex justify-between w-full'>
         <Link className='transition underline text-[#5651e5] pl-16 py-8' href='/#home'>Back</Link>
         
