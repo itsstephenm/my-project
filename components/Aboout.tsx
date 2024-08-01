@@ -33,7 +33,7 @@ const Aboout = () => {
       <p className=' text-gray-600 pt-28'>
         I`m not limited to software development only as i am able to diagnose and resolve computer issues, network or printer problems, email, internet and local area network access points.
 	      Also capable of installing different operating systems on computer devices
-        i.e. windows 7/8/10/11.
+        i.e. windows 7/8/10/11. Monitor antivirus software and backup systems.
         I possess good designing skills for suitable application user interfaces/user experience and graphic designs.   
         <Link href='/#Contactsection' className='text-[#5651e5] underline'>Get-In-touch</Link> 
       </p>
