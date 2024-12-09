@@ -15,13 +15,11 @@ const Main = () => {
                 Hi, i`m <span className='text-[#5651e5]'>Stephen</span>
               </h1>
               <h1 className='py-2 text-gray-700'>
-                  A Front-End Web Developer
+                  A Software Developer
               </h1>
-              <p className='py-4 mx-auto text-gray-600 max-w-[70%] '>
-                Occasional graphics designing, 
-                creating beautiful and profesional digital experiences. 
-                Currently i`m focused on building responsive web applications, improving my 
-                graphics designing skills whilst working on my mobile Application development skill and back-end technologies.  
+              <p className='py-4 mx-auto text-gray-600 max-w-[70%] '> 
+                Creating beautiful and profesional digital experiences and occasional graphic designs.
+                Currently i`m focused on building responsive web applications, improving my networking skills whilst working on my mobile Application development skill and back-end technologies.  
               </p>
               <div className='text-[#5651e5] flex items-center justify-between max-w-[330px] m-auto py-4'>
                 <Link target="_blank" href='https://www.linkedin.com/in/stephen-muregwi-b6170830a/'>

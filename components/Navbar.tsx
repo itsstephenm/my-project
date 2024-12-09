@@ -6,8 +6,6 @@ import Link from 'next/link';
 import {AiOutlineMenu, AiOutlineClose, AiOutlineMail, AiFillGithub} from 'react-icons/ai';
 import { AiFillLinkedin } from "react-icons/ai";
 import { BsFillPersonLinesFill } from "react-icons/bs";
-import Mode from '../src/app/ModeToggleButton/Mode'
-import { HiRefresh } from 'react-icons/hi';
 
 
 const Navbar = () => {
@@ -141,4 +139,3 @@ export default Navbar
 function useEffect(arg0: () => void, arg1: never[]) {
   throw new Error('Function not implemented.');
 }
-
