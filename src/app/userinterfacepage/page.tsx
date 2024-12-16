@@ -13,7 +13,7 @@ import Saloon_Template from '../../../public/assets/UIandGRAPHICS/Saloon Templat
 import Design1 from '../../../public/assets/UIandGRAPHICS/Design1.png'
 import Graphic_Designer_Poster from '../../../public/assets/UIandGRAPHICS/Graphic Designer Poster.png'
 import { RiRadioButtonFill } from 'react-icons/ri';
-import Carousel from '../../../components/Carousel';
+
 
 const page = () => {
   return (

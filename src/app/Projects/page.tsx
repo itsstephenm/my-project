@@ -28,7 +28,7 @@ const Projects = () => {
             />
 
            <Projectsitem 
-            title='NETWORKING CERTIFICATIONS' 
+            title='CERTIFICATIONS' 
             backgroundImg={networking} 
             projectUrl='/Networking'
             />
