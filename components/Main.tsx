@@ -12,14 +12,19 @@ const Main = () => {
             <div>
               <p className='uppercase text-sm tracking-wide'>Team Work Makes The Dream Work</p>
               <h1 className='py-4 text-gray-700 '>
-                Hi, i`m <span className='text-[#5651e5]'>Stephen</span>
+                Hi, i'm <span className='text-[#5651e5]'>Stephen</span>
               </h1>
               <h1 className='py-2 text-gray-700'>
-                  A Software Developer
+                  Network Systems Administrator 
               </h1>
               <p className='py-4 mx-auto text-gray-600 max-w-[70%] '> 
-                Creating beautiful and profesional digital experiences and occasional graphic designs.
-                Currently i`m focused on building responsive web applications, improving my networking skills whilst working on my mobile Application development skill and back-end technologies.  
+                primary responsibilities include managing and maintaining the organization's network infrastructure 
+                to ensure optimal performance and security. I oversee the installation, configuration, and troubleshooting 
+                of network hardware and software, including routers, switches, and firewalls. Additionally, I monitor network 
+                performance, implement security protocols, and conduct regular backups to safeguard data integrity. I collaborate 
+                with cross-functional teams to support IT projects and provide technical support to users, ensuring seamless connectivity 
+                and efficient operations across the organization. My goal is to create a reliable and secure network environment 
+                that meets the evolving needs of the business.
               </p>
               <div className='text-[#5651e5] flex items-center justify-between max-w-[330px] m-auto py-4'>
                 <Link target="_blank" href='https://www.linkedin.com/in/stephen-muregwi-b6170830a/'>

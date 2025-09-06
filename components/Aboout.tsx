@@ -6,6 +6,7 @@ import Link from 'next/link';
 
 const Aboout = () => {
   return (
+   
     <div id='about' className='border-b border-gray-300 w-full md:grid-cols-3 md:h-screen p-2 flex items-center py-16'>
       <div className='max-w-[1240px] m-auto md:grid grid-cols-3 gap-8'>
       <div col-span-2>
